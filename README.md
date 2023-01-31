@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/74331153/215773867-992baa4d-f5ff-454a-a701-3792b23c0158.png)
+![image](https://user-images.githubusercontent.com/74331153/215797547-7d3eb3aa-baa1-4ab3-8c03-a28694db9b02.png)
 
 
 **#---------------------------------------------------------------------------><---------------------------------------------------------------------------#**
@@ -18,7 +18,7 @@
 
 **#---------------------------------------------------------------------------><---------------------------------------------------------------------------#**
 
-![image](https://user-images.githubusercontent.com/74331153/215773731-e110f739-5ffb-4242-8a30-320aeb4c6c8c.png)
+![image](https://user-images.githubusercontent.com/74331153/215797306-6aa874d7-13ef-4b25-b5d0-5a3395092eef.png)
 
 
 Создание основной конструкции окна в PyGame.\
@@ -48,7 +48,7 @@
 ![image](https://user-images.githubusercontent.com/74331153/215781433-f9beb68a-42dc-4ef1-8bde-e552567e81e4.png)
 
 
-![image](https://user-images.githubusercontent.com/74331153/215774265-d262aab7-1f23-439c-9a06-1c722562b280.png)
+![image](https://user-images.githubusercontent.com/74331153/215797204-3cd2aaf2-5ec2-4436-a984-eda5addc043b.png)
 
 Отрисовка геометрических фигур.\
 Создание цикла отрисовки.
@@ -72,7 +72,7 @@
 ![image](https://user-images.githubusercontent.com/74331153/215783100-380d1678-001a-489c-addf-02115a53b8ee.png)
 
 
-![image](https://user-images.githubusercontent.com/74331153/215774528-daa57bf0-78b1-437a-9237-1c2551914f39.png)
+![image](https://user-images.githubusercontent.com/74331153/215796987-4e955365-caf9-4006-9bd9-ccc0a963a744.png)
 
 
 Внедрение FPS в проект.\
@@ -102,7 +102,7 @@
 ![image](https://user-images.githubusercontent.com/74331153/215783254-ffead6db-b867-493a-a55f-cf4a040b7b05.png)
 
 
-![image](https://user-images.githubusercontent.com/74331153/215774589-6b04c57a-7e95-4fb1-b0b8-174f5770e678.png)
+![image](https://user-images.githubusercontent.com/74331153/215796862-0de090d4-c32c-4a16-ad72-a01add335e40.png)
 
 Коллизия в игре.\
 Взаимодействие с объектами.\
@@ -128,7 +128,7 @@
 ![image](https://user-images.githubusercontent.com/74331153/215783381-bcf0efb0-a99f-4324-b5d0-3d8567c8ddb0.png)
 
 
-![image](https://user-images.githubusercontent.com/74331153/215776796-e7094913-6cd4-49c0-93e0-8aa09f7eee7f.png)
+![image](https://user-images.githubusercontent.com/74331153/215796516-8db07bd0-7c39-4cfe-84d9-1c1cc5cdcc84.png)
 
 Создание класса и рефакторинг кода.\
 Создание класса Snake.
@@ -155,6 +155,9 @@
 **>>>RESULT_5<<**
 
 ![image](https://user-images.githubusercontent.com/74331153/215795498-349f6841-2b0d-4c43-abca-14237592fc87.png)
+
+
+![image](https://user-images.githubusercontent.com/74331153/215796181-28b5ef4e-a6e0-47ac-a0db-9222e4ccbcb1.png)
 
 
 
