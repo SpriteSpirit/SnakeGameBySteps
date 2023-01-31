@@ -274,11 +274,10 @@
 
 **>>>RESULT_9<<**
 
-![image](https://user-images.githubusercontent.com/74331153/215851119-8d61ec38-c736-438c-88b2-3fe6ef36dde6.png)
-![image](https://user-images.githubusercontent.com/74331153/215853321-6c47853a-791e-4425-ac4d-aaa6c8db9d36.png)
-![image](https://user-images.githubusercontent.com/74331153/215854023-744262c8-e89f-425f-907e-861ef1365918.png)
+![SnakeGame_Final](https://user-images.githubusercontent.com/74331153/215891815-6492274a-6af9-4d18-bd19-345b2a4218d3.gif)
 
-Это всё.
+
+На этом всё.
 Остался баг с появлением еды на границах.
 
 
