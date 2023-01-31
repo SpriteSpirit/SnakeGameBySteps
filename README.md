@@ -100,6 +100,7 @@
 **>>>RESULT_3<<**
 
 ![image](https://user-images.githubusercontent.com/74331153/215783254-ffead6db-b867-493a-a55f-cf4a040b7b05.png)
+![SnakeGame_lesson3](https://user-images.githubusercontent.com/74331153/215893574-57ed00a7-2eec-43fc-b006-cf461655f91b.gif)
 
 
 ![image](https://user-images.githubusercontent.com/74331153/215796862-0de090d4-c32c-4a16-ad72-a01add335e40.png)
@@ -126,6 +127,7 @@
 **>>>RESULT_4<<**
 
 ![image](https://user-images.githubusercontent.com/74331153/215783381-bcf0efb0-a99f-4324-b5d0-3d8567c8ddb0.png)
+![SnakeGame_lesson4](https://user-images.githubusercontent.com/74331153/215893641-5727d88a-acb7-4407-9388-cfb35332e6be.gif)
 
 
 ![image](https://user-images.githubusercontent.com/74331153/215796516-8db07bd0-7c39-4cfe-84d9-1c1cc5cdcc84.png)
@@ -155,6 +157,7 @@
 **>>>RESULT_5<<**
 
 ![image](https://user-images.githubusercontent.com/74331153/215795498-349f6841-2b0d-4c43-abca-14237592fc87.png)
+![SnakeGame_lesson5](https://user-images.githubusercontent.com/74331153/215893665-7c0dcd4f-f06a-4297-8429-7118cfda25c2.gif)
 
 
 ![image](https://user-images.githubusercontent.com/74331153/215796181-28b5ef4e-a6e0-47ac-a0db-9222e4ccbcb1.png)
@@ -187,6 +190,7 @@
 
 **>>>RESULT_6<<**
 ![image](https://user-images.githubusercontent.com/74331153/215848358-722766bc-cd8e-4e31-83fe-1b8fbb9a8575.png)
+![SnakeGame_lesson6](https://user-images.githubusercontent.com/74331153/215893703-f5331e2b-5f66-4f4c-acb3-f5da4421cead.gif)
 
 
 ![image](https://user-images.githubusercontent.com/74331153/215847999-ec5983d8-4dd3-4213-8ab7-5d754f71809d.png)
@@ -220,6 +224,8 @@
 **>>>RESULT_7<<**
 
 ![image](https://user-images.githubusercontent.com/74331153/215847838-a46eb497-5623-42ff-8cb1-0d45fc102e37.png)
+![SnakeGame_lesson7](https://user-images.githubusercontent.com/74331153/215893771-cd29e411-1824-42f6-b1de-f6392af90a4f.gif)
+
 
 ![image](https://user-images.githubusercontent.com/74331153/215849114-5835cc9f-1cc2-4cea-a5e1-7e9603eed3a7.png)
 
@@ -247,6 +253,8 @@
 **>>>RESULT_8<<**
 
 ![image](https://user-images.githubusercontent.com/74331153/215850196-f3e6500a-8236-4a22-9a26-9971d4e79f12.png)
+![SnakeGame_lesson8](https://user-images.githubusercontent.com/74331153/215893802-7ec401c8-2303-4b87-8e0d-bc6f606744e1.gif)
+
 
 ![image](https://user-images.githubusercontent.com/74331153/215853479-99d64913-b383-44b5-bc35-7ab8647ab084.png)
 
